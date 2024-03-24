@@ -1,0 +1,5 @@
+![Screenshot 1](screenshots/detail1.png)
+![Screenshot 2](screenshots/detail2.png)
+![Screenshot 3](screenshots/favourites1.png)
+![Screenshot 4](screenshots/home3.png)
+![Screenshot 5](screenshots/search5.png)
