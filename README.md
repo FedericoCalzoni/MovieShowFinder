@@ -1,5 +1,5 @@
-![Screenshot 1](screenshots/detail1.png)
-![Screenshot 2](screenshots/detail2.png)
-![Screenshot 3](screenshots/favourites1.png)
-![Screenshot 4](screenshots/home3.png)
-![Screenshot 5](screenshots/search5.png)
+<img src="screenshots/detail1.png" style="width: 33%;">
+<img src="screenshots/search5.png" style="width: 33%;">
+<img src="screenshots/favourites1.png" style="width: 33%;">
+<img src="screenshots/home3.png" style="width: 100%;">
+
