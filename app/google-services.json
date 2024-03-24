@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452477106241",
+    "project_id": "movie-show-finder",
+    "storage_bucket": "movie-show-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452477106241:android:a0eb302b4260ee05992ec0",
+        "android_client_info": {
+          "package_name": "com.FedyCal.movieshowfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452477106241-scjop7k55hiocg72sn2qpum0kgqvqq4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqGehTu78BvommqrKKmMbBmHi9fI9UTmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452477106241-scjop7k55hiocg72sn2qpum0kgqvqq4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
